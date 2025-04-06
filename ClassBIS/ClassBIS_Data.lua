@@ -529,13 +529,13 @@ addonTable.PHASED_ITEM_DATA = {
             location = DUNGEON_DATA["The Mechanar"].name .. " - " .. DUNGEON_DATA["The Mechanar"].bosses[5].name
         }, {
             itemID = 29246,
-            location = DUNGEON_DATA["Old Hillsbrad Foothills"].name .. " - " .. DUNGEON_DATA["Old Hillsbrad Foothills"].bosses[3].name
+            location = "H - " .. DUNGEON_DATA["Old Hillsbrad Foothills"].name .. " - " .. DUNGEON_DATA["Old Hillsbrad Foothills"].bosses[3].name
         }, {
             itemID = 28396,
             location = DUNGEON_DATA["The Arcatraz"].name .. " - " .. DUNGEON_DATA["The Arcatraz"].bosses[2].name
         }, {
             itemID = 29247,
-            location = DUNGEON_DATA["The Black Morass"].name .. " - " .. DUNGEON_DATA["The Black Morass"].bosses[2].name
+            location = "H - " .. DUNGEON_DATA["The Black Morass"].name .. " - " .. DUNGEON_DATA["The Black Morass"].bosses[2].name
         }, {
             itemID = 31544,
             location = "Showdown - Quest - Rexxar, V Na Riko Kosata"
