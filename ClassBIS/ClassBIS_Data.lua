@@ -520,7 +520,7 @@ addonTable.PHASED_ITEM_DATA = {
             location = "Leatherworking BoE - Crafted"
         }, {
             itemID = 27797,
-            location = DUNGEON_DATA["Auchenai Crypts"].name .. " - " .. DUNGEON_DATA["Auchenai Crypts"].bosses[3].name
+            location = "H - " .. DUNGEON_DATA["Auchenai Crypts"].name .. " - " .. DUNGEON_DATA["Auchenai Crypts"].bosses[3].name
         }, {
             itemID = 31255,
             location = "World Drop - BoE"
