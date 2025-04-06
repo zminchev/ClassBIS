@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: ClassBIS
+## Notes: An Addon that shows the Pre-Raid BIS and BIS items for your class.
+## Author: Hauntings
+## OptionalDeps: ElvUI
+## Version: 1.0
+
+ClassBIS_Data.lua
+ClassBIS_Utils.lua
+ClassBIS.lua
