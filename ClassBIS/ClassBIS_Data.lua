@@ -427,9 +427,6 @@ local DUNGEON_DATA = {
         }, {
             name = "Chess Event",
             id = 11
-        }, {
-            name = "The Big Bad Wolf",
-            id = 12
         }}
     },
     ["Gruul's Lair"] = {
@@ -520,7 +517,8 @@ addonTable.PHASED_ITEM_DATA = {
             location = "Leatherworking BoE - Crafted"
         }, {
             itemID = 27797,
-            location = "H - " .. DUNGEON_DATA["Auchenai Crypts"].name .. " - " .. DUNGEON_DATA["Auchenai Crypts"].bosses[3].name
+            location = "H - " .. DUNGEON_DATA["Auchenai Crypts"].name .. " - " ..
+                DUNGEON_DATA["Auchenai Crypts"].bosses[3].name
         }, {
             itemID = 31255,
             location = "World Drop - BoE"
@@ -529,13 +527,15 @@ addonTable.PHASED_ITEM_DATA = {
             location = DUNGEON_DATA["The Mechanar"].name .. " - " .. DUNGEON_DATA["The Mechanar"].bosses[5].name
         }, {
             itemID = 29246,
-            location = "H - " .. DUNGEON_DATA["Old Hillsbrad Foothills"].name .. " - " .. DUNGEON_DATA["Old Hillsbrad Foothills"].bosses[3].name
+            location = "H - " .. DUNGEON_DATA["Old Hillsbrad Foothills"].name .. " - " ..
+                DUNGEON_DATA["Old Hillsbrad Foothills"].bosses[3].name
         }, {
             itemID = 28396,
             location = DUNGEON_DATA["The Arcatraz"].name .. " - " .. DUNGEON_DATA["The Arcatraz"].bosses[2].name
         }, {
             itemID = 29247,
-            location = "H - " .. DUNGEON_DATA["The Black Morass"].name .. " - " .. DUNGEON_DATA["The Black Morass"].bosses[2].name
+            location = "H - " .. DUNGEON_DATA["The Black Morass"].name .. " - " ..
+                DUNGEON_DATA["The Black Morass"].bosses[2].name
         }, {
             itemID = 31544,
             location = "Showdown - Quest - Rexxar, V Na Riko Kosata"
@@ -575,10 +575,12 @@ addonTable.PHASED_ITEM_DATA = {
             location = DUNGEON_DATA["Karazhan"].name .. " - " .. DUNGEON_DATA["Karazhan"].bosses[7].name
         }, {
             itemID = 29096,
-            location = DUNGEON_DATA["Magtheridon's Lair"].name .. " - " .. DUNGEON_DATA["Magtheridon's Lair"].bosses[1].name
+            location = DUNGEON_DATA["Magtheridon's Lair"].name .. " - " ..
+                DUNGEON_DATA["Magtheridon's Lair"].bosses[1].name
         }, {
             itemID = 29246,
-            location = DUNGEON_DATA["Old Hillsbrad Foothills"].name .. " - " .. DUNGEON_DATA["Old Hillsbrad Foothills"].bosses[3].name
+            location = DUNGEON_DATA["Old Hillsbrad Foothills"].name .. " - " ..
+                DUNGEON_DATA["Old Hillsbrad Foothills"].bosses[3].name
         }, {
             itemID = 28506,
             location = DUNGEON_DATA["Karazhan"].name .. " - " .. DUNGEON_DATA["Karazhan"].bosses[1].name
@@ -622,6 +624,9 @@ addonTable.PHASED_ITEM_DATA = {
         }, {
             itemID = 28762,
             location = "Prince Malchezaar - Karazhan"
+        }, {
+            itemID = 28967,
+            location = "High King Maulgar - Gruul's Lair"
         }, {
             itemID = 28766,
             location = "High King Maulgar - Gruul's Lair"

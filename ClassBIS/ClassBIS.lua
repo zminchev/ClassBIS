@@ -196,7 +196,7 @@ local function ShowItemsForClassTier(className, tierKey, parentFrame)
 
     -- Define sizing/spacing for two columns
     local itemWidth = 330
-    local itemHeight = 40
+    local itemHeight = 32
     local xSpacing = 20
     local ySpacing = 10
     local startX = 10
