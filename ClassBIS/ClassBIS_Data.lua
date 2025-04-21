@@ -670,7 +670,76 @@ addonTable.PHASED_ITEM_DATA = {
             itemID = 27683,
             location = "H - Slave Pens - Quagmirran"
         }},
-        TIER_5 = {},
+        TIER_5 = {
+            {
+                itemID = 30212,
+                location = "Serpentshine Cavern - Lady Vashj"
+            },
+            {
+                itemID = 28967,
+                location = "High King Maulgar - Gruul's Lair"
+            },
+            {
+                itemID = 28766,
+                location = "Prince Malchezaar - Karazhan"
+            },
+            {
+                itemID = 30107,
+                location = "Serpentshine Cavern - Lady Vashj"
+            },
+            {
+                itemID = 29918,
+                location = "Tempest Keep - Al'ar"
+            },
+            {
+                itemID = 28968,
+                location = "Karazhan - The Curator"
+            },
+            {
+                itemID = 30038,
+                location = "Tailoring BoE - Crafted"
+            },
+            {
+                itemID = 30213,
+                location = "Serpentshringe Cavern - Fathom-Lord Karathress"
+            },
+            {
+                itemID = 30037,
+                location = "Tailoring BoP - Crafted"
+            },
+            {
+                itemID = 30015,
+                location = "Tempest Keep - Kael'thas Sunstrider - Quest"
+            },
+            {
+                itemID = 30109,
+                location = "Serpentshringe Cavern - Lady Vashj"
+            },
+            {
+                itemID = 29302,
+                location = "Keepers of Time - Reputation"
+            },
+            {
+                itemID = 27683,
+                location = "H - Slave Pens - Quagmirran"
+            },
+            {
+                itemID = 29370,
+                location = "41 Badge of Justice"
+            },
+            {
+                itemID = 30095,
+                location = "Serpentshrine Cavern - Leotheras the Blind"
+            },
+            {
+                itemID = 30049,
+                location = "Serpentshrine Cavern - Hydross the Unstable"
+            },
+            {
+                itemID = 29982,
+                location = "Tempest Keep - High Astromancer Solarian"
+            },
+        },
         TIER_6 = {}
     }
 }
